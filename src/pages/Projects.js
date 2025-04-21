@@ -15,7 +15,7 @@ const Projects = () => {
       title: 'Music Review',
       description: 'A PHP-based music review site. Login using "admin" or "reviewer" for both the username and password.',
       image: musicReview,
-      link: 'https://students.gaim.ucf.edu/~ab841661/dig3134c/assignment04/admin.php',
+      link: 'https://students.gaim.ucf.edu/~ab841661/dig3134c/assignment05/login.php',
     },
     {
       title: 'React-Native Exercise App',
